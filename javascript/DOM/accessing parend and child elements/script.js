@@ -1,0 +1,11 @@
+const parentEl = document.getElementById("parent");
+//console.log(parentEl.parentNode);
+const grandparentEl = parentEl.parentNode;
+//console.log(grandparentEl);
+const firstChildEl = parentEl.firstChild;
+const lastChildEl = parentEl.lastChild;
+//console.log(lastChildEl);
+const firstElementchild = parentEl.firstElementChild;
+console.log(firstElementchild);
+const lastElementchild = parentEl.lastElementChild;
+console.log(lastElementchild);

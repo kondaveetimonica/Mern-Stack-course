@@ -1,0 +1,74 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  margin: 0;
+  background-color: #f5f7fa;
+}
+.product-card {
+  width: 300px;
+  background-color: white;
+  box-shadow: 0px 10px 20px rgb(0, 0, 0, 0.1);
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.product-image {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+.product-info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.product-name {
+  font-size: 20px;
+  margin: 0 5px;
+  font-weight: bold;
+  color: cornflowerblue;
+}
+
+.product-prize {
+  font-size: 20px;
+  font-weight: bold;
+  color: coral;
+  margin-bottom: 5px;
+}
+product-description {
+  color: #4b5455;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.discount-tag {
+  position: absolute;
+  top: 16px;
+  right: -30px;
+  background-color: chocolate;
+  color: #f5f7fa;
+  transform: rotate(45deg);
+  padding: 8px 30px;
+  font-weight: bold;
+  font-size: 14px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.btn-add-to-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  padding: 12px 0;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+}
+.btn-add-to-cart:hover {
+  background-color: rgb(21, 21, 68);
+}

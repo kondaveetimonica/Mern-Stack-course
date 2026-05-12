@@ -1,0 +1,35 @@
+.container {
+  background-color: #bc6d6d;
+  height: 100vh;
+  border: 2px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.box {
+  height: 150px;
+  background-color: red;
+  margin: 10px;
+}
+.box1 {
+  background-color: green;
+  flex-grow: 1;
+  align-self: flex-end;
+}
+
+.box2 {
+  background-color: rebeccapurple;
+  flex-grow: 1;
+  align-self: flex-start;
+}
+.box3 {
+  background-color: yellow;
+  flex-grow: 1;
+  align-self: flex-start;
+}
+.box4 {
+  background-color: rgb(0, 8, 255);
+  flex-grow: 1;
+  align-self: flex-end;
+}
