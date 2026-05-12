@@ -19,8 +19,8 @@ This repository contains all my practice code, notes, and projects from my MERN 
 | `bootsrap` | Bootstrap components, grid system, responsive design | ✅ Done |
 | `javascript` | ES6+, DOM, events, async/await, fetch API | ✅ Done |
 | `Reactjs basics` | Components, props, state, JSX | ✅ Done |
-| `nodejs` | Node.js core modules, npm, file system | ✅ Done |
-| `PROJECTS` | Practice projects and mini apps | ✅ Done |
+| `nodejs` | Node.js core modules, npm, file system | 🔄In Progress |
+| `PROJECTS` | Practice projects and mini apps | 🔄In progress |
 | `express` | REST APIs, routing, middleware | 🔄 Coming soon |
 | `mongodb` | MongoDB, Mongoose, CRUD operations | 🔄 Coming soon |
 | `fullstack-project` | Complete MERN stack application | 🔄 Coming soon |
@@ -48,9 +48,9 @@ This repository contains all my practice code, notes, and projects from my MERN 
 | CSS Styling | ✅ Completed |
 | Bootstrap | ✅ Completed |
 | JavaScript | ✅ Completed |
-| React Basics | ✅ Completed |
-| Node.js | ✅ Completed |
-| Express.js | 🔄 In Progress |
+| React Basics | 🔄 In Progress |
+| Node.js | 🔄 In Progress|
+| Express.js |  🔜 Coming Soon  |
 | MongoDB & Mongoose | 🔜 Coming Soon |
 | Full Stack Project | 🔜 Coming Soon |
 
